@@ -75,16 +75,16 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "Hello, My name is {0}.\n\nI'm a telegram streaming bot with some useful features. Supporting platforms like Youtube, Spotify, Resso, AppleMusic , Soundcloud etc.\n\nFeel free to add me to your groups."
+start_2 : "ʜᴀʟʟᴏ ɴᴀᴍᴀ sᴀʏᴀ {0}.\n\nsᴀʏᴀ ʙᴏᴛ sᴛʀᴇᴀᴍɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴅᴇɴɢᴀɴ ʙᴇʙᴇʀᴀᴘᴀ ꜰɪᴛᴜʀ ʏᴀɴɢ ʙᴇʀɢᴜɴᴀ. ᴘʟᴀᴛꜰᴏʀᴍ ᴘᴇɴᴅᴜᴋᴜɴɢ sᴇᴘᴇʀᴛɪ ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪꜰʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇᴍᴜsɪᴄ, sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴅʟʟ. ᴊᴀɴɢᴀɴ ʀᴀɢᴜ ᴜɴᴛᴜᴋ ᴍᴇɴᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴀɴ ᴊᴀᴅɪᴋᴀɴ sᴀʏᴀ ᴀᴅᴍɪɴ ᴀɢᴀʀ sᴀʏᴀ ʙɪsᴀ ʙᴇʀᴊᴀʟᴀɴ\n\nsᴀʟᴀᴍ ᴅᴀʀɪ ᴏᴡɴᴇʀ sᴀʏᴀ."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
-start_4 : "{0}'s Owner[{1}] has just joined your chat."
-start_5 : "A member of {0}'s Sudo User[{1}] has just joined your chat."
+start_4 : "{0}'s Owner[{1}] baru saja join di group ini"
+start_5 : "A member dari {0}'s Pengikut saya[{1}] sudah gabung di group mu."
 start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** to **supergroup** and then add me back.\n\n**How to make supergroup?**\n✅ Make your group's chat history **visible** once."
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "Click on the buttons below for more information. If you're facing any problem in command you can contact my bot owner or ask in support chat.\n\nAll commands can be used with: /"
-help_2 : "Contact me in PM for help."
+help_1 : "ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ɪɴꜰᴏʀᴍᴀsɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ. ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴɢʜᴀᴅᴀᴘɪ ᴍᴀsᴀʟᴀʜ ᴅᴀʟᴀᴍ ᴘᴇʀɪɴᴛᴀʜ, ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢʜᴜʙᴜɴɢɪ ᴘᴇᴍɪʟɪᴋ ʙᴏᴛ ᴀᴛᴀᴜ ᴍᴇᴍɪɴᴛᴀ ᴏʙʀᴏʟᴀɴ ᴅᴜᴋᴜɴɢᴀɴ..\n\nsᴇᴍᴜᴀ ᴘᴇʀɪɴᴛᴀʜ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴇɴɢᴀɴ: /"
+help_2 : "ʜᴜʙᴜɴɢɪ sᴀʏᴀ ᴅɪ ᴘᴍ/ᴘᴄ ᴜɴᴛᴜᴋ ᴍᴇᴍɪɴᴛᴀ ʙᴀɴᴛᴜᴀɴ."
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
@@ -229,38 +229,38 @@ queue_4 : "⏳ Added to Queue at **#{0}\n\n💡Title:** {1}\n**⏱Duration:** {2
 queue_5 : "Only one track inside queue, Please add some more to check list"
 
 # All Streaming Lines
-stream_1 : "📡 **Started Streaming** 💡\n\n👤**Requested By:** {0}\n🔦**Information: **[Here]({1})"
-stream_2 : "📡 **Started Streaming via URL ** 💡\n\n👤**Requested By:** {0}"
-stream_3 : "📡 **Started Streaming** 💡\n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👤**Requested By:** {2}"
-stream_4 : "📡 **Started Streaming** 💡\n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👤**Requested By:** {3}"
+stream_1 : "🧸 **Bot Streaming**\n\n🎧 **Info Song:** [Hᴇʀᴇ]({1})\n👨🏼‍🚀 **Requested By:** {0}"
+stream_2 : "🧸 **Bot Streaming via URL ** \n\n👨🏼‍🚀**Requested By:** {0}"
+stream_3 : "🧸 **Bot Streaming** \n\n**🏷Title:** {0}\n⌛️**Duration**: {1}\n👨🏼‍🚀**Requested By:** {2}"
+stream_4 : "🧸 **Bot Streaming** \n\n**🏷Title:** [{0}]({1})\n⌛️**Duration**: {2}\n👨🏼‍🚀**Requested By:** {3}"
 
 # Inline Buttons
 
 #General Buttons
-CLOSE_BUTTON  : "🗑 Close"
-CLOSEMENU_BUTTON  : "🗑 Close Menu"
-BACK_BUTTON : "⬅ Back"
+CLOSE_BUTTON  : "• Cʟᴏꜱᴇ •"
+CLOSEMENU_BUTTON  : "• Cʟᴏꜱᴇ Mᴇɴᴜ •"
+BACK_BUTTON : "• Bᴀᴄᴋ •"
 UNBAN_BUTTON : "🗑 Unban Assistant"
 
 #Lyrics
 L_B_1 : "🚀 Checkout Lyrics Now"
 
 # Start
-S_B_1 : "🗒 Commands"
-S_B_2 : "🔧 Settings"
-S_B_3 : "📨 Support"
-S_B_4 : "📨 Channel"
-S_B_5 : "✚ Add me to your Group"
-S_B_6 : "💡 Git Repo"
-S_B_7 : "👤 Bot Owner"
-S_B_8 : "🔎 How to Use? Commands Menu."
+S_B_1 : "🗒 Cᴏᴍᴍᴀɴᴅꜱ"
+S_B_2 : "🔧 Sᴇᴛᴛɪɴɢꜱ"
+S_B_3 : "📨 Sᴜᴘᴘᴏʀᴛ"
+S_B_4 : "📨 Cʜᴀɴɴᴇʟ"
+S_B_5 : "✚ Aᴅᴅ Mᴇ Tᴏ Gʀᴏᴜᴘ"
+S_B_6 : "🌐 Rᴇᴘᴏ Mᴜꜱɪᴄ"
+S_B_7 : "👤 Oᴡɴᴇʀ Bᴏᴛ"
+S_B_8 : "🔎 Cᴏᴍᴍᴀɴᴅs Mᴇɴᴜ"
 
 #Help 
 H_B_1 : "Admin Commands"
 H_B_2 : "Play Commands"
 H_B_3 : "Bot Commands"
 H_B_4 : "Extra Commands"
-H_B_5 : "Close Menu"
+H_B_5 : "• Cʟᴏꜱᴇ Mᴇɴᴜ •"
 H_B_6 : "SudoUser Commands"
 
 #PlayMode
@@ -269,15 +269,15 @@ PM_B_2 : "InlineMarkup"
 PM_B_3 : "ChannelPlay"
 
 #Play
-P_B_1 : "🎵 Play Audio"
-P_B_2 : "🎥 Play Video"
-P_B_3 : "🏮 Start Live Stream"
-P_B_4 : "🎵 Play Playlist"
+P_B_1 : "🎵 Mᴜꜱɪᴄ​"
+P_B_2 : "🎥 Vɪᴅᴇᴏ​"
+P_B_3 : "🏮 Live Stream"
+P_B_4 : "🎵 Playlist"
 
 #Playlist
-PL_B_1 : "🚀 Play Playlist"
-PL_B_2 : "✚ Playlists"
-PL_B_3 : "✚ CPanel"
+PL_B_1 : "🚀 ᴘʟᴀʏ ᴘʟᴀʏʟɪsᴛ"
+PL_B_2 : "✚ ᴘʟᴀʏʟɪsᴛs"
+PL_B_3 : "• Mᴇɴᴜ •"
 PL_B_4 : "📡 Play Mode"
 PL_B_5 : "🔄 Del Whole Playlist"
 PL_B_6 : "↗️ Delete Playlist"
@@ -290,11 +290,11 @@ PL_B_11 : "👤 Play Personal Top 10 Tracks"
 #Settings
 ST_B_1 : "🔊 Aud Quality"
 ST_B_2 : "🎥 Vid Quality"
-ST_B_3 : "🎩 Auth Users"
-ST_B_4 : "📱 Dashboard"
-ST_B_5 : "▶️ Play Mode"
-ST_B_6 : "🏳️‍🌈 Language"
-ST_B_7 : "🔄 Clean Mode"
+ST_B_3 : "Auth Users"
+ST_B_4 : "Dashboard"
+ST_B_5 : "Play Mode"
+ST_B_6 : "Language"
+ST_B_7 : "Clean Mode"
 ST_B_8 : "{0} Low Quality Audio"
 ST_B_9 : "{0} Medium Quality Audio"
 ST_B_10 : "{0} High Quality Audio"
@@ -303,8 +303,8 @@ ST_B_12 : "{0} Medium Quality Video"
 ST_B_13 : "{0} High Quality Video"
 ST_B_14 : "✅ Enabled"
 ST_B_15 : "❌ Disabled"
-ST_B_16 : "👤 Admins"
-ST_B_17 : "👥 Everyone"
+ST_B_16 : "👮 Admins"
+ST_B_17 : "👮‍♀️ Member"
 ST_B_18 : "📋 Authorized Users Lists"
 ST_B_19 : "🔎 Search Mode"
 ST_B_20 : "✅ Direct"
@@ -313,13 +313,13 @@ ST_B_22 : "👨‍⚖️ Admin Commands"
 ST_B_23 : "🏘 Group"
 ST_B_24 : "🏷 Channel"
 ST_B_25 : "🫂 Play Type"
-ST_B_26 : "🗑 Command Clean"
-ST_B_27 : "🧑‍🚀 Suggestion Mode"
+ST_B_26 : "Command Clean"
+ST_B_27 : "Suggestion Mode"
 
 #Song
 SG_B_1 : "↗️ Open Private Chat"
-SG_B_2 : "🔊 Audio"
-SG_B_3 : "🎥 Video"
+SG_B_2 : "🔊 Aᴜᴅɪᴏ"
+SG_B_3 : "🎥 Vɪᴅᴇᴏ"
 
 #Stats
 SA_B_1 : "📢 Top 10 Chat"
@@ -332,8 +332,8 @@ SA_B_7 : "🔢 Global Top 10 Stats"
 SA_B_8 : "🤖 Bot Stats"
 
 #Queue
-QU_B_1 : "📑 Queued List"
-QU_B_2 : "Played {0} out of {1} Mins"
+QU_B_1 : "📑 Lɪsᴛ Sᴏɴɢ"
+QU_B_2 : "🚦 Dɪᴍᴀɪɴᴋᴀɴ {0} Dᴀʀɪ {1} Mᴇɴɪᴛ"
 
 # Sudo Users [ If you are translating this to some other language .. you can leave all these strings in english language]
 
