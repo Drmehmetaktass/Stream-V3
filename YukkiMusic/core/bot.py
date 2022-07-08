@@ -8,11 +8,8 @@
 # All rights reserved.
 
 import sys
-from sys import version as pyver
 
 from pyrogram import Client
-from pyrogram import __version__ as pyrover
-from pytgcalls.__version__ import __version__ as pytgver
 
 import config
 
@@ -36,7 +33,7 @@ class YukkiBot(Client):
         self.id = get_me.id
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, "Bot Stream Started\n\n**Python Version :** `{pyver.split()[0]}` \n**Pyrogram Version :** `{pyrover}` \n**Py-TgCalls Version :** `{pytgver}` \n"
+                config.LOG_GROUP_ID, "🤖 Bot Stream Started 🤖"
             )
         except:
             LOGGER(__name__).error(
