@@ -8,8 +8,14 @@
 # All rights reserved.
 
 import sys
+from sys import version as pyver
 
 from pyrogram import Client
+from pyrogram import __version__ as pyrover
+from pyrogram import filters
+from pyrogram.errors import MessageIdInvalid
+from pyrogram.types import CallbackQuery, InputMediaPhoto, Message
+from pytgcalls.__version__ import __version__ as pytgver
 
 import config
 
