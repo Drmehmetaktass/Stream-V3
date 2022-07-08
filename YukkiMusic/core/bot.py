@@ -33,7 +33,7 @@ class YukkiBot(Client):
         self.id = get_me.id
         try:
             await self.send_message(
-                config.LOG_GROUP_ID, "Bot Started"
+                config.LOG_GROUP_ID, "Bot Stream Started\n\n**Python Version :** {pyver.split()[0]}\n**Pyrogram Version :** {pyrover}\n**Py-TgCalls Version :** {pytgver}"
             )
         except:
             LOGGER(__name__).error(
