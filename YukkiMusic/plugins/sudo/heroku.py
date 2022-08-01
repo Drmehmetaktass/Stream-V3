@@ -346,6 +346,6 @@ async def restart_(_, message):
     except:
         pass
     await response.edit(
-        "Reboot telah berhasil dimulai!  Tunggu 1 - 2 menit sampai bot selesai merestart. ✅"
+        "Reboot telah berhasil dimulai!  Tunggu 1 - 2 menit sampai bot selesai merestart! ✅"
     )
     os.system(f"kill -9 {os.getpid()} && bash start")
