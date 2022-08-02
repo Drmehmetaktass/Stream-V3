@@ -75,7 +75,7 @@ admin_34 : "Failed to seek the current stream."
 
 # Start
 start_1 : "Thanks for having me in {0}.\n{1} is alive.\n\nFor any assistance or help, checkout our support group and channel."
-start_2 : "ʜᴀʟʟᴏ ɴᴀᴍᴀ sᴀʏᴀ {0}.\n\nsᴀʏᴀ ʙᴏᴛ sᴛʀᴇᴀᴍɪɴɢ ᴛᴇʟᴇɢʀᴀᴍ ᴅᴇɴɢᴀɴ ʙᴇʙᴇʀᴀᴘᴀ ꜰɪᴛᴜʀ ʏᴀɴɢ ʙᴇʀɢᴜɴᴀ. ᴘʟᴀᴛꜰᴏʀᴍ ᴘᴇɴᴅᴜᴋᴜɴɢ sᴇᴘᴇʀᴛɪ ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪꜰʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇᴍᴜsɪᴄ, sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴅʟʟ. ᴊᴀɴɢᴀɴ ʀᴀɢᴜ ᴜɴᴛᴜᴋ ᴍᴇɴᴀᴍʙᴀʜᴋᴀɴ sᴀʏᴀ ᴋᴇ ɢʀᴜᴘ ᴀɴᴅᴀ ᴅᴀɴ ᴊᴀᴅɪᴋᴀɴ sᴀʏᴀ ᴀᴅᴍɪɴ ᴀɢᴀʀ sᴀʏᴀ ʙɪsᴀ ʙᴇʀᴊᴀʟᴀɴ\n\nsᴀʟᴀᴍ ᴅᴀʀɪ ᴏᴡɴᴇʀ sᴀʏᴀ."
+start_2 : "Hallo nama saya {0}.\n\Saya bot streaming telegram dengan beberapa fitur yang berguna, Platform pendukung seperti youtube,spotify,resso,applemusic,soundcloud Dll. Jangan ragu untuk menmbahkan saya ke group anda dan jadikan saya **Admin** agar saya bisa berfungsi\n\nSalam dari Owner Saya."
 start_3 : "Welcome To {0}\n\nI don't need any **admin permission** to work ( until asked for ).\n\nAssistant Username:- @{1}\nAssistant ID:- {2}"
 start_4 : "{0}'s Owner[{1}] baru saja join di group ini"
 start_5 : "A member dari {0}'s Pengikut saya[{1}] sudah gabung di group mu."
@@ -83,8 +83,8 @@ start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** 
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "ᴋʟɪᴋ ᴛᴏᴍʙᴏʟ ᴅɪ ʙᴀᴡᴀʜ ɪɴɪ ᴜɴᴛᴜᴋ ɪɴꜰᴏʀᴍᴀsɪ ʟᴇʙɪʜ ʟᴀɴᴊᴜᴛ. ᴊɪᴋᴀ ᴀɴᴅᴀ ᴍᴇɴɢʜᴀᴅᴀᴘɪ ᴍᴀsᴀʟᴀʜ ᴅᴀʟᴀᴍ ᴘᴇʀɪɴᴛᴀʜ, ᴀɴᴅᴀ ᴅᴀᴘᴀᴛ ᴍᴇɴɢʜᴜʙᴜɴɢɪ ᴘᴇᴍɪʟɪᴋ ʙᴏᴛ ᴀᴛᴀᴜ ᴍᴇᴍɪɴᴛᴀ ᴏʙʀᴏʟᴀɴ ᴅᴜᴋᴜɴɢᴀɴ. sᴇᴍᴜᴀ ᴘᴇʀɪɴᴛᴀʜ ᴅᴀᴘᴀᴛ ᴅɪɢᴜɴᴀᴋᴀɴ ᴅᴇɴɢᴀɴ: /"
-help_2 : "ʜᴜʙᴜɴɢɪ sᴀʏᴀ ᴅɪ ᴘᴍ/ᴘᴄ ᴜɴᴛᴜᴋ ᴍᴇᴍɪɴᴛᴀ ʙᴀɴᴛᴜᴀɴ."
+help_1 : "Klik tombol di bawah ini untuk informasi lebih lanjut. Jika anda menghadapi masalah dalam perintah, anda dapat menghubungi pemilik bot atau memingta obrolan dukungan."
+help_2 : "Hubungi saya di **PM/PC** untuk meminta bantuan "
 
 # Settings
 setting_1 : "⚙️ **Music Bot Settings**\n\n🖇**Group:** {0}\n🔖**Group ID:** `{1}`\n\n💡**Choose the function buttons from below which you want to edit or change.**"
@@ -293,7 +293,7 @@ ST_B_2 : "🎥 ᴠɪᴅ Qᴜᴀʟɪᴛʏ"
 ST_B_3 : "ᴀᴜᴛʜ ᴜꜱᴇʀꜱ"
 ST_B_4 : "ᴅᴀꜱʜʙᴏᴀʀᴅ"
 ST_B_5 : "ᴘʟᴀʏ ᴍᴏᴅᴇ"
-ST_B_6 : "ʟanguage"
+ST_B_6 : "🏳️ Language"
 ST_B_7 : "ᴄʟᴇᴀɴ ᴍᴏᴅᴇ"
 ST_B_8 : "{0} ʟᴏᴡ Qᴜᴀʟɪᴛʏ ᴀᴜᴅɪᴏ"
 ST_B_9 : "{0} ᴍᴇᴅɪᴜᴍ Qᴜᴀʟɪᴛʏ ᴀᴜᴅɪᴏ"
