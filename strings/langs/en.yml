@@ -83,7 +83,7 @@ start_6 : "❗️ **Supergroup Needed** ❗️\n\nPlease convert your **group** 
 start_7 : "**Blacklisted Chat**\n\nYou're chat has been blacklisted by the Bot. Please ask any SudoUser to whitelist chat first. Check [Sudolist from here]({0})"
 
 # Help
-help_1 : "Klik tombol di bawah ini untuk informasi lebih lanjut. Jika anda menghadapi masalah dalam perintah, anda dapat menghubungi pemilik bot atau memingta obrolan dukungan."
+help_1 : "Klik tombol di bawah ini untuk informasi lebih lanjut. Jika anda menghadapi masalah dalam perintah, anda dapat menghubungi pemilik bot atau meminta obrolan dukungan."
 help_2 : "Hubungi saya di **PM/PC** untuk meminta bantuan "
 
 # Settings
